@@ -1,5 +1,7 @@
 # fronde-py
-A Fixed-point algorithm for Robust Null Distribution Estimation
+## A Fixed-point algorithm for Robust Null Distribution Estimation
+
+Ref : Celine Meillier et al, GRETSI 2017 https://hal.archives-ouvertes.fr/hal-01563994
 
 This simple and fast method allows to estimate in a robust way the median and the standard deviation under the null hypothesis of data samples that can be contaminated by a source signal. It is a σ-clipping algorithm based on a fixed-point approach.
 
